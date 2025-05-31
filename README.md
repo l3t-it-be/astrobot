@@ -2,11 +2,11 @@
 
 <div style='text-align: center; margin: 20px 0;'>
   <a href='https://t.me/star_sign_bot'>
-    <img src='avatar.png' width='300' alt='Запустить AstroBot 🚀'>
+    <img src='avatar.png' width='300' alt='Запустить AstroBot 🚀' style='display: block; margin: 0 auto;'>
   </a>
   <br><br>
   <a href='https://t.me/star_sign_bot'>
-    <img src='https://img.shields.io/badge/🚀_Запустить_бота-2CA5E0?style=for-the-badge&logo=telegram' alt='Запустить в Telegram'>
+    <img src='https://img.shields.io/badge/🚀_Запустить_бота-2CA5E0?style=for-the-badge&logo=telegram' alt='Запустить в Telegram' style='display: block; margin: 0 auto;'>
   </a>
   <blockquote style='text-align: center; font-style: italic;'>
     Говорят, астрология — это ерунда. Но раз ты здесь, значит, звёзды всё же правят миром! 🌠
@@ -25,6 +25,4 @@
 
 ---
 
-<sub>Создано с верой в то, что технологии могут быть магическими 🔮</sub>
-
-
+<sub style='display: block; text-align: center;'>Создано с верой в то, что технологии могут быть магическими 🔮</sub>
