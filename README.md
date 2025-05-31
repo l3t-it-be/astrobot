@@ -1,17 +1,20 @@
-<h1 style='text-align: center;'>AstroBot 🚀 — астрогид в вашем телефоне</h1>
+# <p align="center">AstroBot 🚀 — астрогид в вашем телефоне</p>
 
-<div style='text-align: center; margin: 20px 0;'>
+<p align="center">
   <a href='https://t.me/star_sign_bot'>
-    <img src='avatar.png' width='300' alt='Запустить AstroBot 🚀' style='display: block; margin: 0 auto;'>
+    <img src='avatar.png' width='300' height='300' alt='Запустить AstroBot 🚀'>
   </a>
-  <br><br>
+</p>
+
+<p align="center">
   <a href='https://t.me/star_sign_bot'>
-    <img src='https://img.shields.io/badge/🚀_Запустить_бота-2CA5E0?style=for-the-badge&logo=telegram' alt='Запустить в Telegram' style='display: block; margin: 0 auto;'>
+    <img src='https://img.shields.io/badge/🚀_Запустить_бота-2CA5E0?style=for-the-badge&logo=telegram' alt='Запустить в Telegram'>
   </a>
-  <blockquote style='text-align: center; font-style: italic;'>
-    Говорят, астрология — это ерунда. Но раз ты здесь, значит, звёзды всё же правят миром! 🌠
-  </blockquote>
-</div>
+</p>
+
+<p align="center" style="font-style: italic;">
+  Говорят, астрология — это ерунда. Но раз ты здесь, значит, звёзды всё же правят миром! 🌠
+</p>
 
 ## 🌟 Почему стоит попробовать?
 
@@ -25,4 +28,6 @@
 
 ---
 
-<sub style='display: block; text-align: center;'>Создано с верой в то, что технологии могут быть магическими 🔮</sub>
+<p align="center">
+  <sub>Создано с верой в то, что технологии могут быть магическими 🔮</sub>
+</p>
